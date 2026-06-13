@@ -1,0 +1,6 @@
+_output/
+data/
+.ipynb_checkpoints/
+.DS_Store
+.jupyterlite.doit.db
+web_src/

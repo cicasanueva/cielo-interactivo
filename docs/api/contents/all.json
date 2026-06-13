@@ -1,0 +1,57 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2026-06-13T02:09:22.005094Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2026-06-13T02:09:22.005094Z",
+      "mimetype": null,
+      "name": "app.ipynb",
+      "path": "app.ipynb",
+      "size": 52621,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2026-06-13T02:09:22.005515Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2026-06-13T02:09:22.005515Z",
+      "mimetype": null,
+      "name": "environment.yml",
+      "path": "environment.yml",
+      "size": 171,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2026-06-13T02:09:36.996910Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2026-06-13T02:09:37.073812Z",
+      "mimetype": null,
+      "name": "data",
+      "path": "data",
+      "size": null,
+      "type": "directory",
+      "writable": true
+    }
+  ],
+  "created": "2026-06-13T02:09:36.996245Z",
+  "format": "json",
+  "hash": null,
+  "hash_algorithm": null,
+  "last_modified": "2026-06-13T02:09:37.074497Z",
+  "mimetype": null,
+  "name": "",
+  "path": "",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}
